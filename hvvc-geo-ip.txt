@@ -1,7 +1,7 @@
 # Feed for AS29802
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
 23.29.112.0/24,US,US-NY,New York City,10311
-23.29.113.0/24,US,US-CA,Los Angeles,,
+23.29.113.0/24,US,US-CA,Los Angeles,90017
 23.29.114.0/23,US,US-FL,Tampa,33614
 23.29.116.0/23,US,US-TX,Dallas,75247
 23.29.118.0/23,US,US-NY,New York,10311
